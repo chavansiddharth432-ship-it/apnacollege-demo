@@ -1,2 +1,3 @@
 # apnacollege-demo
 This is my first Git repository according to apnacollege yt channel.
+Author - Siddharth Chavan
